@@ -51,7 +51,7 @@ header{
     width:200px;
     background-color: #FFFFFF;
     border: 1px solid #000000;
-    border.radius:8px;
+    border-radius:8px;
     display: inline-block;
     margin: 10px;
     vertical-align: top;
